@@ -23,5 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    
+    'DragonBall Z',
+    'Qual foram as formas de Majin Boo?',
+    'Suas formas foram Kid Boo, Fat Boo, Sr. Boo, Super Boo (Gotenks), Super Boo, Super Boo (Gohan), Super Boo (Piccolo), Evil Boo'
 )
