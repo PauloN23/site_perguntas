@@ -1,29 +1,23 @@
 criaCartao(
-    'DragoBall',
-    'Qual o primeiro vilão da saga de DragonBall?',
-    'O primeiro vilão da saga de Dragonball foi Oolong'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'DragonBall',
-    'Qual a primeira técnica usada pelo Goku?',
-    'A primeira técnica usada pelo Goku foi o Kamehameha, onde Goku aprendeu apenas vendo o Mestre Kame usando na saga de DragonBall'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'DragonBall Z',
-    'Qual são as sagas de DragonBall Z?, tirando a saga de Garlic JR e a Saga do torneio do outro mundo',
-    'São as sagas de DragonBall Z, Saga dos Saiyajins, Saga de Freeza, Saga dos Androides, Saga de Cell, Saga de Majin Boo'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'DragonBall Z',
-    'Qual técnica Goku usa para derrotar Vegeta?',
-    'Goku usou a técnica kaoiken para derrotar Vegeta, onde ele aprendeu com o senhor Kaioh'
-)
-
-criaCartao(
-    'DragonBall Z',
-    'Qual foram as formas de Majin Boo?',
-    'Suas formas foram Kid Boo, Fat Boo, Sr. Boo, Super Boo (Gotenks), Super Boo, Super Boo (Gohan), Super Boo (Piccolo), Evil Boo'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
